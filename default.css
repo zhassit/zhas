@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+        width: 100%;
+}
+
+.btn{
+    padding: 10px 25px;
+    border-radius: 6px;
+    border: 1px solid transparent;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+
+.white-btn{
+    background-color: var(--main-white);
+    color: black;
+}
+
+.white-btn:hover{
+    background-color: transparent;
+    color: var(--main-white);
+    border: 1px solid var(--main-white);
+}
+
+.cover{
+    width: 100%;
+    position: relative;
+}
+
+section{
+    margin-bottom: 80px;
+}
+
+.orndg-btn{
+    background-color: var(--main-red);
+    color: white;
+    padding: 25px 25px;
+}
+
+.orndg-btn:hover{
+    background-color: transparent;
+    color: var(--main-red);
+    border: 1px solid var(--main-white);
+    padding: 25px 25px;
+}

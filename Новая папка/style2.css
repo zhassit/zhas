@@ -1,0 +1,305 @@
+*{  
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.cover{
+    width: 100%;
+    position: relative;
+}
+
+section{
+    margin-bottom: 80px;
+}
+
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #fafafa;
+    padding: 20px 0;
+}
+
+header .wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo p{
+    font-size: 39px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-right: 5px;
+}
+
+.logo .logo-circle{
+    width: 10px;
+    height: 10px;
+    background-color: #f25a42;
+    border-radius: 100%;
+    margin-top: 17px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+}
+
+.nav-links{
+    border-right: 2px solid #000;
+    padding-right: 20px;
+}
+
+.nav-links a{
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    padding-right: 30px;
+}
+
+.hoodie{
+    color: #fff;
+    text-align: center;
+    background-color: #FF4500;
+}
+
+.text{
+    padding-top: 60px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.text1 h3{
+    margin-top: 10px;
+    font-weight: 400;
+    padding-bottom: 60px;
+
+}
+
+.iopl{
+    margin:0 auto;
+    width: 1000px;
+    height: 400px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.jopa{
+    border-bottom: 1px solid black;
+    height: 50px;
+}
+
+.levii{
+    text-align: left;
+}
+
+.ghjk{
+    width: 40px;
+}
+
+.MMM{
+    margin-left: 250PX;
+   
+}
+
+.banim{
+     display: flex;
+}
+
+.daplin{
+    margin-left: 830px;
+    padding-bottom: 50px;
+}
+
+
+.total{
+    padding: 30px;
+    width: 40%;
+    margin-left: 650px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+.sub{
+    display: flex;
+    padding-bottom: 20px;
+}
+
+.sub p{
+    margin-left: 350px;
+}
+
+.cac{
+    width: 40%;
+    font-weight: 400;
+    font-size: 20px;
+    border-bottom: 2px solid;
+    padding-top: 10px;
+}
+
+.empte{
+    display: flex;
+    margin-top: 50px;
+    border-top: 2px solid;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.empte p{
+    padding-right: 390px;
+}
+
+.btn{
+    margin-left: 1100px;
+    margin-top: 100px;
+    padding: 10px 25px;
+    border-radius: 6px;
+    border: 1px solid transparent;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.white-btn{
+    background-color: #FF4500;
+    color: #000;
+}
+
+.white-btn:hover{
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+
+
+* {box-sizing: border-box;}
+form {
+  margin-top: 100px;
+  position: relative;
+  width: 400px;
+  margin: 0 auto;
+}
+.ww {
+  width: 400px;
+  height: 42px;
+  padding-left: 10px;
+  border: 2px solid #DCDCDC;
+  border-radius: 5px;
+  outline: none;
+  background: #fff;
+  color: #9E9C9C;
+}
+.ee {
+    margin-bottom: 25px;
+  position: absolute; 
+  top: 0;
+  right: 0px;
+  width: 50px;
+  height: 42px;
+  border: none;
+  background: #FF4500;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+.ee:before {
+  content: "\f002";
+  font-family: FontAwesome;
+  font-size: 16px;
+  color: #F9F0DA;
+}
+
+.footer-container{
+    padding-top: 50px;
+    margin-top: 100px;
+    background-color: #F5FFFA;
+
+}
+
+.sletter{
+    text-align: center;
+}
+
+.sletter{
+    margin-top: 50px;
+}
+
+.imf h3{
+    margin-top: 20px;
+    font-weight:400;
+}
+
+.kartinki{
+    display: flex;
+    margin-top:100px;
+}
+
+.kartinki img{
+    width: 250px;
+}
+
+.container{
+    padding-top:50px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container h3{
+    font-weight: 400;
+}
+
+.ss img{
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+
+}
+
+.cart{
+    padding-top: 36px;
+    margin-right: 100px;
+}
+
+.ss p{
+    font-size: 39px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-right: 5px;
+}
+
+.logo-circle{
+    width: 10px;
+    height: 10px;
+    background-color: #f25a42;
+    border-radius: 100%;
+    margin-top: 17px;
+}
+
+.contact img{
+    width: 30px;
+    height: 30;
+}
+
+
+
+
+
+
